@@ -11,7 +11,7 @@ public class Player {
 
     public Player(){
         hand = new ArrayList<Card>();
-        bankroll = 500;
+        bankroll = 200;
         bet = 0;
     }
 
@@ -48,6 +48,8 @@ public class Player {
 
     public void sortHand(){
         Collections.sort(hand);
+        // how did i spell initial wrong
+
     }
 }
 

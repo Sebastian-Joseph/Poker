@@ -25,7 +25,7 @@ public class Card implements Comparable<Card>{
             else if (suit > c.suit){
                 return 1;
             }
-         
+
             else{
                 return -1;
             }
@@ -108,5 +108,5 @@ public class Card implements Comparable<Card>{
     public int getRank(){
         return rank;
     }
-
+// how did i spell initial wrong
 }

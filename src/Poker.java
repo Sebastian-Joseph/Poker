@@ -18,6 +18,7 @@ public class Poker {
         deck = new Deck();
         System.out.println(deck);
 
+// how did i spell initial wrong
 
         for (String card : testHand) {
 

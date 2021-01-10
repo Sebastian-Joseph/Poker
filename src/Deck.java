@@ -56,5 +56,7 @@ public class Deck {
             card_num++;
         }
         return showDeck;
+// how did i spell initial wrong
+
     }
 }
