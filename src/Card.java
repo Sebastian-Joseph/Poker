@@ -25,7 +25,7 @@ public class Card implements Comparable<Card>{
             else if (suit > c.suit){
                 return 1;
             }
-            // else if (suit < c.suit)
+         
             else{
                 return -1;
             }
